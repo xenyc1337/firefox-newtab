@@ -1,17 +1,8 @@
-<<<<<<< HEAD
-=======
-Here is a README.md file generated with an image, description, and details for a New Tab extension for Firefox:
-
->>>>>>> 91edb05c21c5f1da106d53d37c69ff39b385e7fa
 # New Tab
 
 A simple new tab page extension for Firefox.
 
-<<<<<<< HEAD
 ![New Tab Extension Demo](https://i.imgur.com/Pyyh0QO.png)
-=======
-![New Tab Extension Demo](https://i.imgur.com/sKMKlEN.jpeg)
->>>>>>> 91edb05c21c5f1da106d53d37c69ff39b385e7fa
 
 ## Description
 
