@@ -2,7 +2,7 @@
 
 A simple new tab page extension for Firefox.
 
-![New Tab Extension Demo](https://i.imgur.com/Pyyh0QO.png)
+![New Tab Extension Demo](https://i.imgur.com/7hA6AA4.jpeg)
 
 ## Description
 
