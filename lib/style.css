@@ -87,7 +87,7 @@ body {
   max-height: 10rem;
   overflow-y: auto;
   scrollbar-width: none;
-  scrollbar-height: none;
+  scroll-margin-right: none;
 }
 
 .linksbox h3 {
