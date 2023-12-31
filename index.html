@@ -9,28 +9,21 @@
     <meta charset="UTF-8">
     <link rel="stylesheet" href="./lib/style.css"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            margin: 0;
+            overflow: hidden;
+        }
 
-            <style>
-            html, body {
-                height: 100%;
-                margin: 0;
-            }
-
-            body {
-                display:         flex;
-                justify-content: center;
-                align-items:     center;
-                overflow:        hidden;
-                font-family:    'Courier New', Courier, monospace;
-            }
-
-            canvas {
-                background-image: linear-gradient(#1c1c7d, #9c9cc9)
-            }
-        </style>
+        canvas {
+            position: absolute;
+            top: 0;
+            left: 0;
+        }
+    </style>
 
 </body>
-<canvas id='cvs'></canvas>
+<canvas id="snowCanvas"></canvas>
     </head>
 <body onload="start()" onclick="document.getElementById('input').focus()">
     <div id="background"></div>
